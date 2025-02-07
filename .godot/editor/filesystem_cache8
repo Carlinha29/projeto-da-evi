@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1737556918
+area_2d.tscn::PackedScene::2763415038243460600::1738851592::0::1::::<><>::uid://bqy0lyepqgiql::::res://sorvete pra peppa.webp<>res://sorvete.gd
+cenario.tscn::PackedScene::5327294908323163824::1738851590::0::1::::<><>::uid://b6p1ei5xj201s::::res://image-de-ceu-peppa.jpg<>uid://bfmvboqn1hxbc::::res://area_2d.tscn<>uid://ciw84g33vc7hn::::res://fundo-peppa.jpg<>uid://bvk522genugtt::::res://playerpig.tscn
+fundo-peppa.jpg::CompressedTexture2D::5381824235559306843::1737555168::1738758898::1::::<><>::
+icon.svg::CompressedTexture2D::3531202694558450758::1737548548::1738758898::1::::<><>::
+image-de-ceu-peppa.jpg::CompressedTexture2D::4594826755359615666::1737553632::1738758898::1::::<><>::
+peppa-pig-pra-evi.png::CompressedTexture2D::2493468096945189632::1737549182::1738758898::1::::<><>::
+playerpig.gd::GDScript::-1::1738766300::0::1::::<>CharacterBody2D<>::
+playerpig.tscn::PackedScene::3882901331449993121::1738851590::0::1::::<><>::uid://bbr4b442f0ebw::::res://peppa-pig-pra-evi.png<>res://playerpig.gd
+sorvete pra peppa.webp::CompressedTexture2D::3560526083993948763::1738850770::1738850818::1::::<><>::
+sorvete.gd::GDScript::-1::1738851474::0::1::::<>Area2D<>::
